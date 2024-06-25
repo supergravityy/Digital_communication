@@ -29,7 +29,7 @@ MATLAB을 이용하여, BPSK, BFSK, BASK 변복조 시스템 중에 하나를 �
 &nbsp;
 ## ℹ️ 개발 정보
 * 개발기간 : 23.05.08 ~ 06.03
-* 개발인원 : 류성수
+* 개발인원 : 류성수 (dbtjdtn325@gmail.com)
 * 개발환경 : Octave
 &nbsp;
 
