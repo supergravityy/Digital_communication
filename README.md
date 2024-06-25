@@ -40,7 +40,7 @@ MATLAB을 이용하여, BPSK, BFSK, BASK 변복조 시스템 중에 하나를 �
 &nbsp;
 
 &nbsp;
-## 🙏 설치 및 실행방
+## 🙏 설치 및 실행방법
   1. 먼저 레포지토리를 clone 합니다
   ```sh
   git clone https://github.com/supergravityy/Digital_communication.git
